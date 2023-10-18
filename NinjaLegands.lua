@@ -1,6 +1,12 @@
 -- // UI LIB \\ --
 local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
 
+-- // UI NOTIF \\ --
+game:GetService("StarterGui"):SetCore("SendNotification",{
+	Title = "Indigo Hub",
+	Text = "Ninja Legends... Loaded !"
+})
+
 -- // UI WINDOW \\ --
 local window = DrRayLibrary:Load("Indigo Hub | Ninja Legands", ".")
 
