@@ -167,17 +167,17 @@ end)
 
 -- // UI CREDITS \\ --
 credits.newButton("Discord", "Copy the discord link", function()
-    setclipboard("https://discord.com/invite/XbckSWds")
+    setclipboard("https://discord.com/invite/FW3JRYXXDK")
 end)
 
 credits.newButton("Creator", "dialz69", function()
-    setclipboard("https://discord.com/invite/XbckSWds")
+    setclipboard("https://discord.com/invite/FW3JRYXXDK")
 end)
 
 credits.newButton("Scripter", "dialz69", function()
-    setclipboard("https://discord.com/invite/XbckSWds")
+    setclipboard("https://discord.com/invite/FW3JRYXXDK")
 end)
 
 credits.newButton("Ui Design", "dialz69", function()
-    setclipboard("https://discord.com/invite/XbckSWds")
+    setclipboard("https://discord.com/invite/FW3JRYXXDK")
 end)
