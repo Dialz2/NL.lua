@@ -3,12 +3,12 @@ local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/
 
 -- // UI NOTIF \\ --
 game:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "Indigo Hub",
+	Title = "Infinity Hub",
 	Text = "Ninja Legends... Loaded !"
 })
 
 -- // UI WINDOW \\ --
-local window = DrRayLibrary:Load("Indigo Hub | Ninja Legands", ".")
+local window = DrRayLibrary:Load("Infinity Hub | Ninja Legands", "rbxassetid://7733964640")
 
 -- // UI TABS \\ --
 local main = DrRayLibrary.newTab("Main", "ImageIdHere")
